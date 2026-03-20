@@ -4,7 +4,7 @@ Self-taught fullstack engineer with a strong backend focus. Currently at [Aerola
 
 I build side projects because I can't help it:
 - 🤖 AI-powered WhatsApp chatbot with 15K+ users
-- 💰 [Cuotia](link) — automated payment collection for small businesses
+- 💰 [Cuotia](cuotia.app) — automated payment collection for small businesses
 - ⚖️ MCP server for lawyers with zero technical background
 - 💬 Chatbot for my hometown — most people there had never used AI
 
